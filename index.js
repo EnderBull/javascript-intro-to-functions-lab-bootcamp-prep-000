@@ -11,3 +11,11 @@ function logShout(string){
   console.log(string)
 }
 
+function logWhisper(string){
+  string = string.toLowerCase()
+  console.log(string)
+}
+
+function sayHiToGrandma(string){
+  if (string === )
+}
