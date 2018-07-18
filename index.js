@@ -23,11 +23,7 @@ function sayHiToGrandma(string){
   else if (string === string.toLowerCase()){
     return ("I can't hear you!")
   }
-  if (string === "I love you" || "I love your, Grandma"){
+  if (string === "I love you, Grandma"){
     return ("I love you, too")
   }
 } 
-
-sayHiToGrandma("HELLO")
-sayHiToGrandma("hello")
-sayHiToGrandma("I love you")
