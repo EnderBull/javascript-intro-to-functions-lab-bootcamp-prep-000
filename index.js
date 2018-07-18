@@ -11,4 +11,4 @@ function logShout(string){
   console.log(string)
 }
 
-logShout("hello")
+function log
