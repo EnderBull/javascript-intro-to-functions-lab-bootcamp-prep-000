@@ -16,6 +16,6 @@ function logWhisper(string){
   console.log(string)
 }
 
-/*function sayHiToGrandma(string){
+function sayHiToGrandma(string){
   if (string === lower)
-} */
+} 
