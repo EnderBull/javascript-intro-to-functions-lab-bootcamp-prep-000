@@ -11,4 +11,3 @@ function logShout(string){
   console.log(string)
 }
 
-function log
